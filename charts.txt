@@ -1,0 +1,8 @@
+Types of Charts:
+pie
+bar
+bubble
+Area
+histogram
+box plots
+stock
